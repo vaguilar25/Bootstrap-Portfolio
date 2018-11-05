@@ -1,16 +1,15 @@
 /* Format portfolio images */
 
-.portfolio img {
-  height: 200px;
-  width: 200px;
-  margin: 15px;
-}
+
 
 .image {
   position: relative;
   margin: 0;
   float: left;
   transition: transform .2s ease-in-out;
+  height: 200px;
+  width: 200px;
+  margin: 15px;
   
 }
 
@@ -32,6 +31,7 @@
   color: white;
   text-align: center;
   font-family: Georgia, Times, "Times New Roman", serif;
+  z-index: 1;
 }
 
 .ribbon:hover {
