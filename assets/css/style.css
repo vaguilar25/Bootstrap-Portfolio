@@ -8,3 +8,9 @@
     background-size: auto;
     clear:both;
 }
+
+.h2-class {
+    font-family: Georgia, Times, "Times New Roman", serif;
+ 
+    font-weight: bold;
+}
