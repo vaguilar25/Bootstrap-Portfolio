@@ -43,7 +43,6 @@ Build a professional portfolio site using HTML/CSS/Bootstrap
         Borders, colors, display, flex, float, position, spacing, text and vertical align.
 ```
 
-```
 
 ## Built With
 
