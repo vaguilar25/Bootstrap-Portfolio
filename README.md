@@ -1,4 +1,4 @@
-# Responsive-Portfolio
+# Bootstrap-Portfolio
 
 Build a professional portfolio site using HTML/CSS/Bootstrap
 
